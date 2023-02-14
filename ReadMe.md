@@ -17,14 +17,11 @@ The knapsack problem is to select a subset of items to be placed into the bag so
 total weight of the selected items does not exceed the capacity of the bag, and the total value of the selected items is maximised. The formal problem description can be written as follows:
 
 $$
-
 max(v1x1 + v2x2 + · · · + vMxM) (1)
-
 $$
 
 $$
 s.t.(w1x1 + w2x2 + · · · + wMxM ≤ Q)(2)
-
 $$
 
 $$
